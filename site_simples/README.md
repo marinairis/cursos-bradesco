@@ -1,9 +1,9 @@
 # Curso HTML, CSS e JS - Bradesco
 
-## Porjeto simples realizado na Plataforma do cusdo do Bradesco
+## ✏ Sobre o projeto
 
-Projeto tem como intuito introdução básica em HTML, CSS e Js.
+Projeto introdutório em HTML, CSS e Js, realizado na plataforma do Bradesco.
 
 Foi ralizado um página simples onde podemos realiza a mudanças do background da pagina, ultilzando o JavaScript.
 
-[gif](images/gif-page.gif).
+![GIF](site_simples/images/gif-page.gif)
