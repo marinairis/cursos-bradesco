@@ -5,4 +5,4 @@ Este repositório tem com intuito adicionar todos so projetos realizado na plata
 
 ## Lista dos projetos
 
- -[Site simples HTML, CSS e JS](site_simples/README.md).
+- [Site simples HTML, CSS e JS](site_simples/README.md).
